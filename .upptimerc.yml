@@ -9,6 +9,12 @@ sites:
     url: https://docs.dumbbotlist.tk
   - name: API
     url: https://dumbbotlist.tk/api
+  - name: Bots
+    url: https://dumbbotlist.tk/bots
+  - name: Servers
+    url: https://dumbbotlist.tk/server
+  - name: Vanity
+    url: https://dumbbotlist.tk/addvanity
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -20,7 +26,7 @@ status-website:
   logoUrl: https://cdn.discordapp.com/icons/849623732871757854/a_26efada30b14c63cb84f6b3676d29e82.gif?size=1024
   name: Dumb List
   introTitle: "**You can See The Status of Dumb List Here**."
-  introMessage: This is in Beta Stage so Please Dont Judge This Website
+  introMessage: This Status Website will show You the real Time Status of Website
   navbar:
     - title: Status
       href: /
