@@ -1,26 +1,24 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: Dumb List # Your GitHub organization or username, where this repository lives
+repo: Dumb-List-Status2 # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Main
+    url: https://dumbbotlist.tk
+  - name: Documentation
+    url: https://docs.dumbbotlist.tk
+  - name: API
+    url: https://dumbbotlist.tk/api
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
+  cname: status.dumbbotlist.tk
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  logoUrl: https://cdn.discordapp.com/icons/849623732871757854/a_26efada30b14c63cb84f6b3676d29e82.gif?size=1024
+  name: Dumb List
+  introTitle: "**You can See The Status of Dumb List Here**."
+  introMessage: This is in Beta Stage so Please Dont Judge This Website
   navbar:
     - title: Status
       href: /
