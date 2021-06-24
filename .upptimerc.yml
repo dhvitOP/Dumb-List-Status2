@@ -22,8 +22,10 @@ status-website:
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: Bots
+      href: https://dumbbotlist.tk/bots
+        - title: Servers
+      href: https://dumbbotlist.tk/servers
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
