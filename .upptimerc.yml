@@ -15,6 +15,8 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.dumbbotlist.tk
   # baseUrl: /your-repo-name
+    theme: ocean
+  favicon: https://cdn.discordapp.com/icons/849623732871757854/a_26efada30b14c63cb84f6b3676d29e82.gif?size=1024
   logoUrl: https://cdn.discordapp.com/icons/849623732871757854/a_26efada30b14c63cb84f6b3676d29e82.gif?size=1024
   name: Dumb List
   introTitle: "**You can See The Status of Dumb List Here**."
