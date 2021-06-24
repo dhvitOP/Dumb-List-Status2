@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/dumbbotlist.tk",
     "slug": "main",
     "status": "down",
-    "uptime": "99.66%",
-    "uptimeDay": "99.66%",
-    "uptimeWeek": "99.66%",
-    "uptimeMonth": "99.66%",
-    "uptimeYear": "99.66%",
+    "uptime": "73.63%",
+    "uptimeDay": "73.63%",
+    "uptimeWeek": "73.63%",
+    "uptimeMonth": "73.63%",
+    "uptimeYear": "73.63%",
     "time": 763,
     "timeDay": 763,
     "timeWeek": 763,
     "timeMonth": 763,
     "timeYear": 763,
     "dailyMinutesDown": {
-      "2021-06-24": 0
+      "2021-06-24": 30
     }
   },
   {
@@ -43,18 +43,18 @@
     "icon": "https://favicons.githubusercontent.com/dumbbotlist.tk",
     "slug": "api",
     "status": "down",
-    "uptime": "99.74%",
-    "uptimeDay": "99.74%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "99.74%",
-    "uptimeYear": "99.74%",
+    "uptime": "73.63%",
+    "uptimeDay": "73.63%",
+    "uptimeWeek": "73.63%",
+    "uptimeMonth": "73.63%",
+    "uptimeYear": "73.63%",
     "time": 668,
     "timeDay": 668,
     "timeWeek": 668,
     "timeMonth": 668,
     "timeYear": 668,
     "dailyMinutesDown": {
-      "2021-06-24": 0
+      "2021-06-24": 30
     }
   },
   {
@@ -63,18 +63,18 @@
     "icon": "https://favicons.githubusercontent.com/dumbbotlist.tk",
     "slug": "bots",
     "status": "down",
-    "uptime": "99.59%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.59%",
-    "uptimeMonth": "99.59%",
-    "uptimeYear": "99.59%",
+    "uptime": "61.54%",
+    "uptimeDay": "61.54%",
+    "uptimeWeek": "61.54%",
+    "uptimeMonth": "61.54%",
+    "uptimeYear": "61.54%",
     "time": 367,
     "timeDay": 367,
     "timeWeek": 367,
     "timeMonth": 367,
     "timeYear": 367,
     "dailyMinutesDown": {
-      "2021-06-24": 0
+      "2021-06-24": 30
     }
   },
   {
@@ -83,18 +83,18 @@
     "icon": "https://favicons.githubusercontent.com/dumbbotlist.tk",
     "slug": "servers",
     "status": "down",
-    "uptime": "99.69%",
-    "uptimeDay": "99.69%",
-    "uptimeWeek": "99.69%",
-    "uptimeMonth": "99.69%",
-    "uptimeYear": "99.69%",
+    "uptime": "61.58%",
+    "uptimeDay": "61.58%",
+    "uptimeWeek": "61.58%",
+    "uptimeMonth": "61.58%",
+    "uptimeYear": "61.58%",
     "time": 606,
     "timeDay": 606,
     "timeWeek": 606,
     "timeMonth": 606,
     "timeYear": 606,
     "dailyMinutesDown": {
-      "2021-06-24": 0
+      "2021-06-24": 30
     }
   },
   {
@@ -103,18 +103,18 @@
     "icon": "https://favicons.githubusercontent.com/dumbbotlist.tk",
     "slug": "vanity",
     "status": "down",
-    "uptime": "99.79%",
-    "uptimeDay": "99.79%",
-    "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.79%",
-    "uptimeYear": "99.79%",
+    "uptime": "61.64%",
+    "uptimeDay": "61.64%",
+    "uptimeWeek": "61.64%",
+    "uptimeMonth": "61.64%",
+    "uptimeYear": "61.64%",
     "time": 487,
     "timeDay": 487,
     "timeWeek": 487,
     "timeMonth": 487,
     "timeYear": 487,
     "dailyMinutesDown": {
-      "2021-06-24": 0
+      "2021-06-24": 30
     }
   }
 ]
