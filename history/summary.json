@@ -5,7 +5,7 @@
     "icon": "https://favicons.githubusercontent.com/dumbbotlist.tk",
     "slug": "main",
     "status": "down",
-    "uptime": "6.16%",
+    "uptime": "6.14%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -14,9 +14,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1060,
+    "timeYear": 1062,
     "dailyMinutesDown": {
-      "2022-07-19": 52,
+      "2022-07-20": 43,
+      "2022-07-19": 1440,
       "2022-07-18": 1440,
       "2022-07-17": 1440,
       "2022-07-16": 1440,
@@ -375,8 +376,7 @@
       "2021-07-24": 1440,
       "2021-07-23": 1440,
       "2021-07-22": 1440,
-      "2021-07-21": 1440,
-      "2021-07-20": 1440
+      "2021-07-21": 1440
     }
   },
   {
@@ -385,18 +385,19 @@
     "icon": "https://favicons.githubusercontent.com/docs.dumbbotlist.tk",
     "slug": "documentation",
     "status": "down",
-    "uptime": "13.49%",
+    "uptime": "13.46%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "7.73%",
+    "uptimeYear": "7.46%",
     "time": 623,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 667,
+    "timeYear": 669,
     "dailyMinutesDown": {
-      "2022-07-19": 52,
+      "2022-07-20": 43,
+      "2022-07-19": 1440,
       "2022-07-18": 1440,
       "2022-07-17": 1440,
       "2022-07-16": 1440,
@@ -742,7 +743,7 @@
     "icon": "https://favicons.githubusercontent.com/dumbbotlist.tk",
     "slug": "api",
     "status": "down",
-    "uptime": "6.15%",
+    "uptime": "6.14%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -751,9 +752,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 279,
+    "timeYear": 280,
     "dailyMinutesDown": {
-      "2022-07-19": 52,
+      "2022-07-20": 43,
+      "2022-07-19": 1440,
       "2022-07-18": 1440,
       "2022-07-17": 1440,
       "2022-07-16": 1440,
@@ -1111,8 +1113,7 @@
       "2021-07-24": 1440,
       "2021-07-23": 1440,
       "2021-07-22": 1440,
-      "2021-07-21": 1440,
-      "2021-07-20": 1440
+      "2021-07-21": 1440
     }
   },
   {
@@ -1121,7 +1122,7 @@
     "icon": "https://favicons.githubusercontent.com/dumbbotlist.tk",
     "slug": "bots",
     "status": "down",
-    "uptime": "6.16%",
+    "uptime": "6.14%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1132,7 +1133,8 @@
     "timeMonth": 0,
     "timeYear": 274,
     "dailyMinutesDown": {
-      "2022-07-19": 52,
+      "2022-07-20": 43,
+      "2022-07-19": 1440,
       "2022-07-18": 1440,
       "2022-07-17": 1440,
       "2022-07-16": 1440,
@@ -1490,8 +1492,7 @@
       "2021-07-24": 1440,
       "2021-07-23": 1440,
       "2021-07-22": 1440,
-      "2021-07-21": 1440,
-      "2021-07-20": 1440
+      "2021-07-21": 1440
     }
   },
   {
@@ -1500,7 +1501,7 @@
     "icon": "https://favicons.githubusercontent.com/dumbbotlist.tk",
     "slug": "servers",
     "status": "down",
-    "uptime": "6.15%",
+    "uptime": "6.13%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1511,7 +1512,8 @@
     "timeMonth": 0,
     "timeYear": 264,
     "dailyMinutesDown": {
-      "2022-07-19": 52,
+      "2022-07-20": 43,
+      "2022-07-19": 1440,
       "2022-07-18": 1440,
       "2022-07-17": 1440,
       "2022-07-16": 1440,
@@ -1869,8 +1871,7 @@
       "2021-07-24": 1440,
       "2021-07-23": 1440,
       "2021-07-22": 1440,
-      "2021-07-21": 1440,
-      "2021-07-20": 1440
+      "2021-07-21": 1440
     }
   },
   {
@@ -1879,7 +1880,7 @@
     "icon": "https://favicons.githubusercontent.com/dumbbotlist.tk",
     "slug": "vanity",
     "status": "down",
-    "uptime": "6.16%",
+    "uptime": "6.14%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1890,7 +1891,8 @@
     "timeMonth": 0,
     "timeYear": 269,
     "dailyMinutesDown": {
-      "2022-07-19": 52,
+      "2022-07-20": 43,
+      "2022-07-19": 1440,
       "2022-07-18": 1440,
       "2022-07-17": 1440,
       "2022-07-16": 1440,
@@ -2248,8 +2250,7 @@
       "2021-07-24": 1440,
       "2021-07-23": 1440,
       "2021-07-22": 1440,
-      "2021-07-21": 1440,
-      "2021-07-20": 1440
+      "2021-07-21": 1440
     }
   }
 ]
