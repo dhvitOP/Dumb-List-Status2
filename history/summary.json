@@ -5,7 +5,7 @@
     "icon": "https://favicons.githubusercontent.com/dumbbotlist.tk",
     "slug": "main",
     "status": "down",
-    "uptime": "5.90%",
+    "uptime": "5.89%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -14,9 +14,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1026,
+    "timeYear": 1028,
     "dailyMinutesDown": {
-      "2022-08-05": 54,
+      "2022-08-06": 43,
+      "2022-08-05": 1440,
       "2022-08-04": 1440,
       "2022-08-03": 1440,
       "2022-08-02": 1440,
@@ -375,8 +376,7 @@
       "2021-08-14": 770,
       "2021-08-12": 17,
       "2021-08-08": 33,
-      "2021-08-07": 512,
-      "2021-08-06": 1440
+      "2021-08-07": 512
     }
   },
   {
@@ -385,18 +385,19 @@
     "icon": "https://favicons.githubusercontent.com/docs.dumbbotlist.tk",
     "slug": "documentation",
     "status": "down",
-    "uptime": "12.93%",
+    "uptime": "12.90%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "3.07%",
+    "uptimeYear": "2.80%",
     "time": 623,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 686,
+    "timeYear": 689,
     "dailyMinutesDown": {
-      "2022-08-05": 54,
+      "2022-08-06": 43,
+      "2022-08-05": 1440,
       "2022-08-04": 1440,
       "2022-08-03": 1440,
       "2022-08-02": 1440,
@@ -759,7 +760,7 @@
     "icon": "https://favicons.githubusercontent.com/dumbbotlist.tk",
     "slug": "api",
     "status": "down",
-    "uptime": "5.89%",
+    "uptime": "5.88%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -770,7 +771,8 @@
     "timeMonth": 0,
     "timeYear": 245,
     "dailyMinutesDown": {
-      "2022-08-05": 54,
+      "2022-08-06": 43,
+      "2022-08-05": 1440,
       "2022-08-04": 1440,
       "2022-08-03": 1440,
       "2022-08-02": 1440,
@@ -1128,8 +1130,7 @@
       "2021-08-15": 1440,
       "2021-08-14": 770,
       "2021-08-08": 85,
-      "2021-08-07": 512,
-      "2021-08-06": 1440
+      "2021-08-07": 512
     }
   },
   {
@@ -1138,7 +1139,7 @@
     "icon": "https://favicons.githubusercontent.com/dumbbotlist.tk",
     "slug": "bots",
     "status": "down",
-    "uptime": "5.90%",
+    "uptime": "5.88%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1149,7 +1150,8 @@
     "timeMonth": 0,
     "timeYear": 219,
     "dailyMinutesDown": {
-      "2022-08-05": 54,
+      "2022-08-06": 43,
+      "2022-08-05": 1440,
       "2022-08-04": 1440,
       "2022-08-03": 1440,
       "2022-08-02": 1440,
@@ -1507,8 +1509,7 @@
       "2021-08-15": 1440,
       "2021-08-14": 770,
       "2021-08-08": 33,
-      "2021-08-07": 512,
-      "2021-08-06": 1440
+      "2021-08-07": 512
     }
   },
   {
@@ -1517,7 +1518,7 @@
     "icon": "https://favicons.githubusercontent.com/dumbbotlist.tk",
     "slug": "servers",
     "status": "down",
-    "uptime": "5.89%",
+    "uptime": "5.88%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1528,7 +1529,8 @@
     "timeMonth": 0,
     "timeYear": 209,
     "dailyMinutesDown": {
-      "2022-08-05": 54,
+      "2022-08-06": 43,
+      "2022-08-05": 1440,
       "2022-08-04": 1440,
       "2022-08-03": 1440,
       "2022-08-02": 1440,
@@ -1886,8 +1888,7 @@
       "2021-08-15": 1440,
       "2021-08-14": 770,
       "2021-08-08": 85,
-      "2021-08-07": 512,
-      "2021-08-06": 1440
+      "2021-08-07": 512
     }
   },
   {
@@ -1896,7 +1897,7 @@
     "icon": "https://favicons.githubusercontent.com/dumbbotlist.tk",
     "slug": "vanity",
     "status": "down",
-    "uptime": "5.90%",
+    "uptime": "5.89%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1907,7 +1908,8 @@
     "timeMonth": 0,
     "timeYear": 211,
     "dailyMinutesDown": {
-      "2022-08-05": 54,
+      "2022-08-06": 43,
+      "2022-08-05": 1440,
       "2022-08-04": 1440,
       "2022-08-03": 1440,
       "2022-08-02": 1440,
@@ -2265,8 +2267,7 @@
       "2021-08-15": 1440,
       "2021-08-14": 769,
       "2021-08-08": 33,
-      "2021-08-07": 512,
-      "2021-08-06": 1440
+      "2021-08-07": 512
     }
   }
 ]
